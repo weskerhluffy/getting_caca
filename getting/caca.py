@@ -5,7 +5,6 @@ Created on 26/09/2018
 '''
 
 # XXX: http://codeforces.com/contest/991/problem/B
-
 if __name__ == '__main__':
     tope = 5
     n = int(input())
